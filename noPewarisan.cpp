@@ -7,3 +7,9 @@ public:
         cout << "Halo saya Function dari base class";
     }
 };
+class baseClass1 {
+public:
+    virtual void perkenalan() {
+        cout << "Halo saya Function dari base class ";
+    }
+};
